@@ -1,2 +1,2 @@
-# blogmy 
+# blog 
 my first repertory
