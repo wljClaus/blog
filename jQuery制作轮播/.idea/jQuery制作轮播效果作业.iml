@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jquery-alertable-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jquery-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jquery.address-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jquery.window-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jquerymobile-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="node-json-db-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jqueryui-DefinitelyTyped" level="application" />
+    <orderEntry type="library" name="jQuery-zz" level="project" />
+    <orderEntry type="library" name="jQuery-222" level="project" />
+  </component>
+</module>

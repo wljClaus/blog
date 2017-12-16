@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jQuery-zz" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../弹出层案例/jQuery弹出层案例源码/老师案例/js/jquery/jquery-1.12.4.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

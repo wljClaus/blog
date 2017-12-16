@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jQuery-222" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="jQuery" />
+      <sourceFilesUrls>
+        <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+        <item url="file://$PROJECT_DIR$/../弹出层案例/jQuery弹出层案例源码/老师案例/js/jquery/jquery-1.12.4.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
+      <root url="file://$PROJECT_DIR$/../弹出层案例/jQuery弹出层案例源码/老师案例/js/jquery/jquery-1.12.4.min.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://api.jquery.com" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
