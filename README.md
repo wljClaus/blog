@@ -1,2 +1,2 @@
-# blog
-我的博客
+# blogmy 
+my first repertory
