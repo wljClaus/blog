@@ -1,4 +1,4 @@
-vaScript 语言的继承则是通过“原型对象”（prototype）。
+###### JavaScript 语言的继承则是通过“原型对象”（prototype）。
 
 参考如下例子：
 ```
