@@ -1,5 +1,5 @@
 
-calhost。
+先了解localhost。
 #####  在[计算机网络中](https://en.wikipedia.org/wiki/Computer_networking "计算机网络")，**localhost**是指*这台计算机*的[主机名](https://en.wikipedia.org/wiki/Hostname "主机名")。它用于通过[回环](https://en.wikipedia.org/wiki/Loopback "环回")网络接口访问主机上运行的网络服务。使用回送接口绕过任何本地[网络接口](https://en.wikipedia.org/wiki/Network_interface_controller "网络接口控制器")硬件。
 本地环回机制可以用于在主机上运行网络服务，而不需要物理网络接口，或者不使计算机可以连接到的网络可访问服务。例如，可以通过[URL](https://en.wikipedia.org/wiki/URL "网址") http：// localhost 从Web浏览器访问本地安装的网站以显示其主页，本机的IP地址*localhost*通常解析 *127.0.0.1*。
 
