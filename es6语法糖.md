@@ -1,5 +1,7 @@
+#### 函数的默认参数
 
-n sum(a,b){
+```
+function sum(a,b){
     return a+b
 }
 
